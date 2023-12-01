@@ -33,4 +33,4 @@ POWER BI document containing the entire data analysis process, including data tr
 A final report summarizing the analysis, insights, and recommendations.
 
 # Conclusion
-This data analysis project in POWER BI will provide valuable insights into the superstore's sales data, helping the business make informed decisions to improve its operations, increase profitability, and enhance customer satisfaction. By the end of the project, we aim to uncover actionable recommendations that can drive business growth and efficiency, all within the user-friendly environment of Google Sheets.
+This data analysis project in POWER BI will provide user-interactive visualizations from valuable insights into the superstore's sales data, helping the business make informed decisions to improve its operations, increase profitability, and enhance customer satisfaction. By the end of the project, we aim to uncover actionable recommendations that can drive business growth and efficiency, all within the user-friendly environment of Power Bi.
